@@ -7,6 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          Welcome to my portfolio!
+        </h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -17,10 +20,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          Hi my name is James
-          <h1>
-          BIGCK TEXT
-          </h1>
         </a>
       </header>
     </div>
